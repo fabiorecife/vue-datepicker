@@ -1,3 +1,6 @@
+# FORK
+This fork was to change the "main" in the package.json .
+
 # vue-datepicker
 calendar and datepicker component with material design for Vue.js
 
